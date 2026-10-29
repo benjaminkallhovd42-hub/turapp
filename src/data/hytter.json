@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "navn": "Gjendesheim",
+    "type": "betjent",
+    "omrade": "Jotunheimen",
+    "hoyde": 995,
+    "sengeplasser": 140,
+    "posisjon": { "lat": 61.494, "lng": 8.811 },
+    "pris": { "medlem": 495, "ikkeMedlem": 690 },
+    "fasiliteter": ["Servering", "Dusj", "Tørkerom", "Strøm"],
+    "beskrivelse": "Populært utgangspunkt for turen over Besseggen, ved østenden av Gjende."
+  },
+  {
+    "id": 2,
+    "navn": "Rondvassbu",
+    "type": "betjent",
+    "omrade": "Rondane",
+    "hoyde": 1173,
+    "sengeplasser": 128,
+    "posisjon": { "lat": 61.881, "lng": 9.795 },
+    "pris": { "medlem": 450, "ikkeMedlem": 640 },
+    "fasiliteter": ["Servering", "Dusj", "Tørkerom"],
+    "beskrivelse": "Fin base for toppturer til Rondeslottet og Storronden."
+  },
+  {
+    "id": 3,
+    "navn": "Stavali",
+    "type": "selvbetjent",
+    "omrade": "Hardangervidda",
+    "hoyde": 1024,
+    "sengeplasser": 40,
+    "posisjon": { "lat": 60.333, "lng": 7.019 },
+    "pris": { "medlem": 340, "ikkeMedlem": 480 },
+    "fasiliteter": ["Proviantlager", "Vedovn", "Tørkerom"],
+    "beskrivelse": "Selvbetjent hytte på vestkanten av Hardangervidda med flott utsikt."
+  },
+  {
+    "id": 4,
+    "navn": "Fjellbu",
+    "type": "ubetjent",
+    "omrade": "Telemark",
+    "hoyde": 870,
+    "sengeplasser": 12,
+    "posisjon": { "lat": 59.85, "lng": 8.6 },
+    "pris": { "medlem": 250, "ikkeMedlem": 370 },
+    "fasiliteter": ["Vedovn", "Utedo"],
+    "beskrivelse": "Liten og enkel hytte for deg som vil ha ro. Ta med egen mat."
+  }
+]
